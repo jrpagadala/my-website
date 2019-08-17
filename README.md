@@ -1,3 +1,2 @@
 # my-website
-vjkvnaj
-fdjajfj
+Added few lines to README.md
