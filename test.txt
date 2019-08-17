@@ -2,3 +2,6 @@ This is an example of creating new file from GITHUB directly
 
 
 Added line from LOCAL
+
+Merge is OK
+Added line from LOCAL
