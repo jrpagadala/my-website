@@ -1,1 +1,2 @@
 This is an example of creating new file from GITHUB directly
+Test of merge conflicts (added from remote develop branch)
